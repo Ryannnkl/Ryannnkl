@@ -19,6 +19,6 @@
   <img src="https://img.shields.io/badge/follow-gray?&style=for-the-badge&logo=medium" />
 </a>
 
-<a href="/https://api.whatsapp.com/send?phone=5587999894811">
+<a href="https://api.whatsapp.com/send?phone=5587999894811">
   <img src="https://img.shields.io/badge/message-gray?&style=for-the-badge&logo=whatsapp" />
 </a>
