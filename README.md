@@ -4,7 +4,7 @@
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Ryannnkl&count_private=false&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true"/>
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryannnkl&layout=compact&hide_border=true"/>
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryannnkl&layout=compact&hide_border=true?count_private=false"/>
     </td>
   </tr>
 </table>
