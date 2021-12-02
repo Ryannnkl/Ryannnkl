@@ -1,4 +1,5 @@
-<table>
+## Tudo bem? :hand:
+<table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Ryannnkl&count_private=false&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dracula"/>
@@ -9,12 +10,24 @@
   </tr>
 </table>
 
+---
+
+### ferramentas
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 ### :globe_with_meridians:
 
 <a href="https://www.instagram.com/ryann_ferreira_/">
-  <img src="https://img.shields.io/badge/follow-gray?&style=for-the-badge&logo=instagram" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=ryann_ferreira_" />
 </a>
 
 <a href="https://medium.com/@ryannnkl">
-  <img src="https://img.shields.io/badge/follow-gray?&style=for-the-badge&logo=medium" />
+  <img src="https://img.shields.io/badge/MEDIUM-white?&style=for-the-badge&logo=medium&logoColor=FFFFFF&label=@Ryannnkl" />
 </a>
