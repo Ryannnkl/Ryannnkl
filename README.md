@@ -28,6 +28,6 @@
   <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=ryann_ferreira_" />
 </a>
 
-<a href="https://medium.com/@ryannnkl">
-  <img src="https://img.shields.io/badge/MEDIUM-white?&style=for-the-badge&logo=medium&logoColor=FFFFFF&label=@Ryannnkl" />
+<a href="mailto:ryannnkl@gmail.com?subject = Eai%20Ryann&body = Tudo%20bom?" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-white?&style=for-the-badge&logo=mail.ru&logoColor=FFFFFF&label=ryannnkl@gmail.com" />
 </a>
