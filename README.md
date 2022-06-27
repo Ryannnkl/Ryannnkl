@@ -1,4 +1,14 @@
 ## Tudo bem? :hand:
+
+#### Obrigado por visitar o meu perfil, é um prazer conhecê lo por aqui
+
+**coisinhas rápidas sobre mim:**
+
+- :books: estou terminando meus estudos esse ano no IFPE
+- :construction_worker: atualmente trabalho como PJ em uma empresa
+- :speech_balloon: meu inglês é intermediário (consigo ler bastante coisa)
+- :clock3: meu hobby é aprender coisas novas (estou aprendendo gamedev agora)
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
