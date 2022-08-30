@@ -1,7 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7C338A&width=435&lines=Ol%C3%A1%2C+tudo+bem%3F" alt="Typing SVG" />
 
-#### Obrigado por visitar o meu perfil, é um prazer conhecê lo por aqui
-
 **coisinhas rápidas sobre mim:**
 
 - :books: estou terminando meus estudos esse ano no IFPE
