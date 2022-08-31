@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7C338A&width=435&lines=Ol%C3%A1%2C+tudo+bem%3F" alt="Typing SVG" />
 
-**coisinhas rápidas sobre mim:**
+## **coisas rápidas sobre mim:**
 
 - :books: estou terminando meus estudos esse ano no IFPE
 - :construction_worker: atualmente trabalho como PJ em uma empresa
@@ -21,16 +21,27 @@
 ---
 
 ### ferramentas principais
+- Frontend
 
 <div>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Javascript-222?style=for-the-badge&logo=Javascript&logoColor=yellow">
-<img src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=black">
-<img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=222">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
 </div>
 
-### :globe_with_meridians:
+- backend
+
+<div>
+  <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/mongodb-00ED64?style=for-the-badge&logo=mongodb&logoColor=00684A">
+  <img src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=black">
+</div>
+
+- SO
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+### :globe_with_meridians: Contato
 
 <a href="https://www.instagram.com/ryann_ferreira_/">
   <img src="https://img.shields.io/badge/INSTAGRAM-ff5555?&style=for-the-badge&logo=instagram&logoColor=ff5555&label=ryann_ferreira_" />
