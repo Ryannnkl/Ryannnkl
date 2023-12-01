@@ -1,11 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7C338A&width=435&lines=Ol%C3%A1%2C+tudo+bem%3F" alt="Typing SVG" />
 
-## **coisas rápidas sobre mim:**
+## **sobre mim:**
 
-- :books: estou terminando meus estudos esse ano no IFPE
-- :construction_worker: atualmente trabalho como PJ em uma empresa
-- :speech_balloon: meu inglês é intermediário (consigo ler bastante coisa)
-- :clock3: meu hobby é aprender coisas novas (estou aprendendo gamedev agora)
+- :books: TI - IFPE (Garanhuns)
+- :construction_worker: trabalhando como Tech Lead e programador no instituto NMB
+- :speech_balloon: meu inglês é intermediário
 
 <table align="center">
   <tr>
@@ -38,8 +37,39 @@
 </div>
 
 - SO
+<div>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Mac-FFFFFF?style=for-the-badge&logo=apple&logoColor=black">
+</div>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+### Linguagens
+
+<div>
+    <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Logo">
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Logo">
+    </a>
+    <a href="https://www.java.com/pt-BR/" target="_blank">
+        <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Logo">
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-PY-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo">
+    </a>
+    <a href="https://www.rust-lang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-RS-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Logo">
+    </a>
+    <a href="https://www.cplusplus.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Logo">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Logo">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Logo">
+    </a>
+</div>
 
 ### :globe_with_meridians: Contato
 
@@ -50,3 +80,4 @@
 <a href="mailto:ryannnkl@gmail.com?subject = Eai%20Ryann&body = Tudo%20bom?" target="_blank">
   <img src="https://img.shields.io/badge/EMAIL-white?&style=for-the-badge&logo=mail.ru&logoColor=FFFFFF&label=ryannnkl@gmail.com" />
 </a>
+
