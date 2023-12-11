@@ -4,7 +4,7 @@
 
 - :books: TI - IFPE (Garanhuns)
 - :construction_worker: trabalhando como Tech Lead e programador no instituto NMB
-- :speech_balloon: meu inglês é intermediário
+- :speech_balloon: inglês intermediário
 
 <table align="center">
   <tr>
