@@ -3,7 +3,7 @@
 ## **sobre mim:**
 
 - :books: TI - IFPE (Garanhuns)
-- :construction_worker: trabalhando como Tech Lead e programador no instituto NMB
+- :construction_worker: trabalhando como analista de software Jr na Showtecnologia
 - :speech_balloon: inglês intermediário
 
 <table align="center">
