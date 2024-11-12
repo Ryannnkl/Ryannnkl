@@ -39,7 +39,6 @@
 - SO
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Mac-FFFFFF?style=for-the-badge&logo=apple&logoColor=black">
 </div>
 
 ### Linguagens
@@ -54,14 +53,8 @@
     <a href="https://www.java.com/pt-BR/" target="_blank">
         <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Logo">
     </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-PY-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo">
-    </a>
     <a href="https://www.rust-lang.org/" target="_blank">
         <img src="https://img.shields.io/badge/-RS-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Logo">
-    </a>
-    <a href="https://www.cplusplus.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Logo">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Logo">
