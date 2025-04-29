@@ -3,43 +3,11 @@
 ## **sobre mim:**
 
 - :books: TI - IFPE (Garanhuns)
+- :books: Analise e Desenvolvimento de Software - Uninassau (EaD)
 - :construction_worker: trabalhando como analista de software Jr na Showtecnologia
 - :speech_balloon: inglês intermediário
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Ryannnkl&count_private=false&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dracula"/>
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryannnkl&layout=compact&hide_border=true?count_private=false&hide=css,html,cmake&langs_count=7&theme=dracula"/>
-    </td>
-  </tr>
-</table>
-
 ---
-
-### ferramentas principais
-- Frontend
-
-<div>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=222">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
-</div>
-
-- backend
-
-<div>
-  <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-00ED64?style=for-the-badge&logo=mongodb&logoColor=00684A">
-  <img src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=black">
-</div>
-
-- SO
-<div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</div>
 
 ### Linguagens
 
